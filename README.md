@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=dbstj589&show_icons=true&theme=tokyonight" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbstj589&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbstj589&exclude_repo=blue_farm&layout=compact&theme=tokyonight" />
 
 </div>
